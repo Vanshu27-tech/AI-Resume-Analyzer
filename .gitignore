@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code Settings
+.vscode/
+
+# Uploaded Files
+static/uploads/*
+
+# Generated PDF Reports
+Resume_Report.pdf
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
